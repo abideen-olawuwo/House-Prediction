@@ -14,4 +14,8 @@ The Data contain 4 different file which include
 - sample_submission.csv - a benchmark submission from a linear regression on year and month of sale, lot square footage, and number of bedrooms
 
 3. Evaluation
-The evaluation metric is to get the best accuray 
+The evaluation metric is to get the best accuray.
+
+4. Features
+The feature of the dataset includes;
+
